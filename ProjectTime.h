@@ -1,5 +1,5 @@
-#ifndef PROJECTTIMER_H
-#define PROJECTTIMER_H
+#ifndef PROJECTTIME_H
+#define PROJECTTIME_H
 
 class ProjectTime{
   private:
